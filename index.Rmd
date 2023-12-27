@@ -1,0 +1,28 @@
+---
+title: "Statistical modelling using R (LOT Tilburg 2024)"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+author: Stefan Hartmann
+output: 
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: true
+    toc_float: true
+    collapsed: false
+    df_print: paged
+---
+
+# Welcome!
+
+This website contains class materials for the statistical modelling class at the LOT winter school in Tilburg (January 2024). It is currently still work-in-progress, please check back soon. (To be sure that you're seeing the most up-to-date version of the page, use [Shift+Refresh](https://www.howtogeek.com/672607/how-to-hard-refresh-your-web-browser-to-bypass-your-cache/)).
+
+
+# Installing R and RStudio
+
+Please make sure that you have installed [R](https://www.r-project.org/) and [RStudio](https://posit.co/download/rstudio-desktop/) before the course begins. Installation is easy and more or less self-explanatory. There are also good tutorials out there, e.g. [here](https://rstudio-education.github.io/hopr/starting.html) in text form, or [here](https://milton-the-cat.rocks/learnr/r/r_getting_started/#section-installing-r-and-rstudio) as a video tutorial.
+
+
+
+
+
+
