@@ -23,6 +23,10 @@ Please make sure that you have installed [R](https://www.r-project.org/) and [RS
 
 
 
+# Data and scripts
+
+Data and scripts are available on [this OSF repository](https://osf.io/rk2py/) (currently still work in progress). More coming soon!
+
 
 
 
